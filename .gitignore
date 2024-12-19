@@ -1,3 +1,11 @@
+# Custom
+lstm/.lstm
+rnn/.rnn
+gru/.gru
+data1.txt
+lstm/my_dir
+lstm/my_dir1
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
