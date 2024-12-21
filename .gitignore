@@ -5,6 +5,9 @@ gru/.gru
 data1.txt
 lstm/my_dir
 lstm/my_dir1
+rnn/my_dir2
+gru/my_dir2
+lstm/my_dir2
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
