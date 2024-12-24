@@ -8,6 +8,14 @@ lstm/my_dir1
 rnn/my_dir2
 gru/my_dir2
 lstm/my_dir2
+test.py
+rnn/junk
+gru/junk
+lstm/junk
+transformers
+t.py
+predict1.py
+predict.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

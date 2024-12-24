@@ -5945,3 +5945,276 @@ sudo apt-get remove unused-software
 sudo apt autoremove  
 history | grep "apt"  # Looking for recent package installs  
 sudo apt upgrade --dry-run  
+
+
+
+
+pip install tensorflow
+pip install scikit-learn
+pip install matplotlib
+/bin/python3 /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+sudo apt update
+sudo apt upgrade
+sudo apt update
+sudo apt install code
+snap install code
+git
+sudo apt install git
+nvcc
+ssh
+ssh-keygen -o -t rsa -C "test-distro"
+cat /home/natsu/.ssh/id_rsa.pub
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuda-ubuntu2404.pin
+sudo mv cuda-ubuntu2404.pin /etc/apt/preferences.d/cuda-repository-pin-600
+wget https://developer.download.nvidia.com/compute/cuda/12.6.3/local_installers/cuda-repo-ubuntu2404-12-6-local_12.6.3-560.35.05-1_amd64.deb
+sudo dpkg -i cuda-repo-ubuntu2404-12-6-local_12.6.3-560.35.05-1_amd64.deb
+sudo cp /var/cuda-repo-ubuntu2404-12-6-local/cuda-*-keyring.gpg /usr/share/keyrings/
+sudo apt-get update
+sudo apt-get -y install cuda-toolkit-12-6
+ls /usr/local
+sudo apt-get install -y cuda-drivers
+cd Downloads
+ls
+dpkg -i code_1.96.0-1733888194_amd64.deb 
+sudo dpkg -i code_1.96.0-1733888194_amd64.deb 
+cd
+ls
+cd Desktop/
+git clone git@github.com:hamza-rx12/shell_next_word_prediction.git
+cd shell_next_word_prediction/
+ls
+ls -la
+cd lstm
+ls
+clear
+ls
+python3 -m venv .lstm
+python3 --version
+sudo apt install python3.12-venv
+clear
+ls -l
+python3 -m venv .lstm
+code .
+wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2404/x86_64/cuda-ubuntu2404.pinsudo mv cuda-ubuntu2404.pin /etc/apt/preferences.d/cuda-repository-pin-600wget https://developer.download.nvidia.com/compute/cuda/12.6.3/local_installers/cuda-repo-ubuntu2404-12-6-local_12.6.3-560.35.05-1_amd64.debsudo dpkg -i cuda-repo-ubuntu2404-12-6-local_12.6.3-560.35.05-1_amd64.debsudo cp /var/cuda-repo-ubuntu2404-12-6-local/cuda-*-keyring.gpg /usr/share/keyrings/sudo apt-get updatesudo apt-get -y install cuda-toolkit-12-6
+cd lstm/
+code .
+docker ps 
+sudo apt install docker.io
+/bin/python3 /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+sudo systemctl hibernate
+cd ..
+ls
+ls -a
+vim .gitignore
+sudo apt install vim
+clear
+vim .gitignore
+git status
+ls
+cd lstm
+code .
+snap install spotify
+cd Desktop/
+cd shell_next_word_prediction/
+ls
+cd lstm
+ls
+ls -l
+ls -la
+pip install keras-tuner
+pip install scikeras
+cd Desktop
+cd shell_next_word_prediction/
+ls
+git status
+ls
+cd lstm
+ls
+code .
+ls
+cd
+cd .ssh
+ls
+vim known_hosts
+vim id_rsa.pub
+ls -a
+vim .gitignore 
+git status
+vim .gitignore 
+git add fine_tunning.ipynb
+git add lstm/fine_tunning.ipynb
+vim .gitignore 
+git status
+git add all
+git add .
+git status
+git --help
+git commit -m "finding best hyperparameters added"
+git config --global user.email "alaoui.hamza2002@gmail.com"
+git config --global user.name "hamza-rx12"
+git commit -m "finding best hyperparameters added"
+git push 
+/bin/python3 /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+source .gru/bin/activate
+pip install tensorflow
+pip install distutils
+pip install distutils-pytest
+pip install scikit-learn
+pip install keras_tuner
+pip install tensorflow
+pip install tensorflow scikit_learn matplotlib keras_tuner distutils-pytest
+/bin/python3 /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+cd Desktop
+cd shell_next_word_prediction/
+ls
+cd lstm
+cd ..
+cd rnn
+cd ../gru
+code .
+ls -a
+python3 -m venv .gru
+cd ../rnn
+ls
+ls -a
+python3 -m venv .rnn
+code .
+cd Desktop
+mkdir test
+cd test/
+python3 -m venv .test
+source .test/bin/activate
+vim test.py
+python3 test.py 
+pip install prompt-toolkit
+python3 test.py 
+/bin/python3 /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/printEnvVariablesToFile.py /home/natsu/.vscode/extensions/ms-python.python-2024.22.0-linux-x64/python_files/deactivate/bash/envVars.txt
+/home/natsu/Desktop/shell_next_word_prediction/gru/.gru/bin/python /home/natsu/Desktop/shell_next_word_prediction/t.py
+cat .bashrc
+cd
+vim .bashrc
+vim .inputrc
+source .bashrc
+bind -f ~/.inputrc
+bind -f .inputrc
+
+
+bind -f .inputrc
+s
+vim .inputrc
+source .bashrc
+
+bind -f .inputrc
+
+bind -f .inputrc
+cd Downloads/
+ls
+dpkg -i opera-stable_115.0.5322.109_amd64.deb 
+sudo dpkg -i opera-stable_115.0.5322.109_amd64.deb 
+cd ../Desktop/test/
+source .test/bin/activate
+vim test1.py
+pip install textual
+python3 test1.py
+vim test1.py
+python3 test1.py
+vim test.py
+python3 test.py
+vim test1.py
+vim test.py
+vim test2.py
+python3 test2.py
+cd ../shell_next_word_prediction/
+ls
+cd rnn
+ls
+cd ..
+git status
+git add .
+git status
+git rm rnn/my_dir2
+git --help
+git reset -- .
+git status
+vim .gitignore
+git status
+git add .
+git status
+git commit -m "hyperparameters generator customized for other models"
+git push
+git status
+ls
+touch predict.py
+code .
+ls -a
+ls -al
+cat .bashrc
+python3
+python3 predict1.py sudo
+python3 predict1.py docker
+python3 predict1.py docker exec 
+python3 predict1.py docker
+source ~/.bashrc
+bind -f ~/.inputrc
+sudo  _global_autocomplete
+source ~/.bashrc
+bind -f ~/.inputrc
+sudo  _global_autocomplete
+sudo apt install fzf
+apt --fix-broken install
+sudo apt --fix-broken install
+source ~/.bashrc
+bind -f ~/.inputrc
+sudo  _global_autocomplete
+sudo apt  _global_autocomplete
+sudo 
+source ~/.bashrc
+bind -f ~/.inputrc
+echo $COMP_LINE
+echo $COMP_LINE[COMP_CWORD]
+echo $COMP_LINE[$COMP_CWORD]
+echo ${COMP_LINE}
+source ~/.bashrc
+bind -f ~/.inputrc
+sudo
+vim .inputrc
+bind .inputrc
+bind -f .inputrc
+vim .inputrc
+bind -f .inputrc
+sudo 
+source .bashrc
+vim .bashrc
+
+docker 
+cd Desktop/
+cd test/
+vimtest2.py
+vim test2.py
+vim test3.py
+python3 test3.py
+vim test3.py
+python3 test3.py
+vim test3.py
+python3 test3.py
+vim ~/.inputrc
+bind -f ~/.inputrc
+vim ~/.inputrc
+bind -f ~/.inputrc
+vim ~/.inputrc
+bind -f ~/.inputrc
+sudo fg && complete
+vim test4.py
+python3 test4.py
+sudo fg && complete
+vim ~/.inputrc
+bind -f ~/.inputrc
+
+vim ~/.inputrc
+bind -f ~/.inputrc
+sudo 
+vim ~/.inputrc
+bind -f ~/.inputrc
+sudo a 
+vim ~/.bashrc
+natsu@natsu:~/Desktop/shell_next_word_prediction$ 
