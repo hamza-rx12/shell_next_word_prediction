@@ -14,8 +14,7 @@ gru/junk
 lstm/junk
 transformers
 t.py
-predict1.py
-predict.py
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
