@@ -1,0 +1,6 @@
+_global_autocomplete() {
+    local current_line="${COMP_LINE}"
+    local cur=${COMP_WORDS[COMP_CWORD]}
+    COMPREPLY=($(~/Desktop/shell_next_word_prediction/lstm/.lstm/bin/python3 ~/Desktop/shell_next_word_prediction/_suggest.py "$current_line" "$cur" 2>/dev/null | tail -n 1))
+}
+complete -D -F _global_autocomplete

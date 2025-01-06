@@ -20,7 +20,7 @@ with open("/home/natsu/Desktop/shell_next_word_prediction/lstm/lstm_tokenizer.pk
 model = load_model('/home/natsu/Desktop/shell_next_word_prediction/lstm/lstm_model.keras')
 
 # Set max sequence length
-MAX_SEQ_LEN = 13 # Adjust based on your model's training configuration
+MAX_SEQ_LEN = 20 # Adjust based on your model's training configuration
 
 def predict_next_words(model, tokenizer, input_text, max_seq_len, top_k=5):
     """Predict the top-k next words based on the input text."""
@@ -93,7 +93,7 @@ if __name__ == "__main__":
     # Use prompt_toolkit to display suggestions and allow user interaction
     completer = WordCompleter(suggestions, ignore_case=True)
     # prompt(pre_run=prompt_autocomplete)
-    completed_command = prompt(f"Complete the command '{input_text}': ",pre_run=prompt_autocomplete, completer=completer)
+    completed_command = prompt(f"{input_text} ", pre_run=prompt_autocomplete, completer=completer)
     # prompt(pre_run=prompt_autocomplete)
 
     # Print the final completed command
